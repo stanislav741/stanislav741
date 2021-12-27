@@ -1,4 +1,4 @@
-### Hi there 👋
+The storage for pet projects and courses homework.
 
 <!--
 **stanislav741/stanislav741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
