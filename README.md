@@ -1,4 +1,4 @@
-Storage for pet projects and courses homework. <br>
+This is a storage for various pet projects and courses homework. <br>
 🇺🇸 / 🇩🇪 / 🇷🇺
 
 <!--
