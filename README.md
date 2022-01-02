@@ -1,4 +1,4 @@
-Storage for various pet projects and homework. <br>
+Various homework and pet projects. <br>
 🇺🇸 / 🇩🇪 / 🇷🇺
 
 <!--
