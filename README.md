@@ -1,5 +1,5 @@
 Various homework and pet projects. <br>
-🇺🇸 / 🇩🇪 / 🇷🇺
+🇬🇧 / 🇩🇪 / 🇷🇺
 
 <!--
 **stanislav741/stanislav741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
